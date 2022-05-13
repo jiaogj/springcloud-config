@@ -1,3 +1,2 @@
-
 config:
-  info: "springcloud-config vsersion=1"
+  info: mian springcloud config dev version=1
